@@ -19,9 +19,8 @@ Este repositorio documenta mi viaje de aprendizaje a través del currículo de C
 ```
 📁 OSSU-CS-Progress/
 ├── 📁 Intro-CS/
-│   ├── 📁 Python-Programming/
-│   ├── 📁 Math-Discrete/
-│   └── 📁 Math-Linear-Algebra/
+│   ├── 📁 Introduction-To-Programming/
+│   ├── 📁 Introduction-To-Computer-Science/
 ├── 📁 Core-CS/
 │   ├── 📁 Algorithms/
 │   ├── 📁 Systems/
